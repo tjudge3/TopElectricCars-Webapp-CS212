@@ -1,3 +1,4 @@
+//This was part of the TopElectricCar WebApp Assignment and used to simulate data retrival. 
 <%@ page import="edu.dccc.TopElectricCars.ElectricCar" %>
 <%@ page import="edu.dccc.TopElectricCars.ElectricCarList" %>
 <%@ page import="java.util.ArrayList" %>
