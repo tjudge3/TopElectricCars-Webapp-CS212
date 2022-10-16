@@ -1,3 +1,5 @@
+//Here we create the array(list), add the data for the page
+//And create the method to return it
 package edu.dccc.TopElectricCars;
 import java.util.ArrayList;
 
