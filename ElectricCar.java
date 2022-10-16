@@ -1,3 +1,5 @@
+//Assignment was to create a Webapp using Tomcat to show the top electric cars. 
+//This was the main file
 package edu.dccc.TopElectricCars;
 import java.text.NumberFormat;
 
