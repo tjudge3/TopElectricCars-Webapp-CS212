@@ -1,3 +1,4 @@
+//This was/is the default page that made sure tomcat was working properly
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html>
